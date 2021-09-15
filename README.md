@@ -10,7 +10,7 @@ An ethereum smart contract powered website that permits users to store a list of
 Secret Santa is a Christmas tradition in which all the members of a group or community are supposed to send a gift to a randomly assigned person. They receive a gift as well from any other person from the group. The identity of the gift giver has to remain a secret and should not be revealed. While there are various 
 versions of the Secret Santa tradition, some including swapping gifts by picking names from a bag, with bitcoin and other crypto currencies being highly sought after, sending crypto currencies as a gift is becoming increasingly popular in online communities. 
 
-## Role of block chain in current system 
+## Role of blockchain in current system 
 
 The major advantage of blockchain technology both at the sender and receiver’s end is flexibility. The current system is a blend of technologies which provides transparency while viewing the wish list and at the same time, allows the sender to remain anonymous. 
 The use of blockchain also represents an improvement in security in the underlying system. It can be used while sending a gift (ex: a gift card), wherein the blockchain-powered process will generate a new address for every transaction, even if the destination address stays the same. So a receiver would receive a gift card into his/her wallet with one address and will be able to send that gift card back to the sender’s wallet with another address. A fraudster cannot reuse any of these addresses to obtain any value from the card.
